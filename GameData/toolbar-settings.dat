@@ -1,0 +1,159 @@
+toolbars
+{
+	SPACECENTER
+	{
+		toolbar_504085606
+		{
+			x = 20
+			y = 32
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = AmbientLightAdjustment.adjustLevels,test.buttonDOSettings
+		}
+	}
+	MAINMENU
+	{
+		toolbar_2061461816
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+		toolbar_369781311
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+		toolbar_27888586
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+		toolbar_1371994704
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+		toolbar_1386171744
+		{
+			x = 1302
+			y = 29
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = Fusebox.FBToggle,CIT_NodeHelper.NodeHelperButton
+		}
+		toolbar_461917759
+		{
+			x = 474
+			y = 26
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = sirkut.IREditorButton
+		}
+	}
+	EDITOR
+	{
+		toolbar_1386171744
+		{
+			x = 1302
+			y = 29
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = Fusebox.FBToggle,CIT_NodeHelper.NodeHelperButton
+		}
+		toolbar_461917759
+		{
+			x = 474
+			y = 26
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = sirkut.IREditorButton
+		}
+	}
+	FLIGHT
+	{
+		toolbar_1171653025
+		{
+			x = 168
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = AmbientLightAdjustment.adjustLevels,test.buttonDOSettings
+		}
+		toolbar_1203384908
+		{
+			x = 1119
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = Fusebox.FBToggle
+		}
+		toolbar_2071097711
+		{
+			x = 341
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,MechJeb2.Smart_A_S_S_,MechJeb2.Rendezvous_Planner,MechJeb2.Maneuver_Planner
+			visibleButtons = MechJeb2.Maneuver_Planner,MechJeb2.Rendezvous_Planner,MechJeb2.Smart_A_S_S_
+		}
+	}
+}
