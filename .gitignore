@@ -1,1 +1,7 @@
+KSP_Data/*
 GameData/Squad/*
+KSP/thumbs/*
+GameData/ModuleManager.ConfigCache
+GameData/ModuleManager.ConfigSHA
+GameData/ModuleManager.Physics
+GameData/ModuleManager.TechTree
