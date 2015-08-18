@@ -2,10 +2,10 @@
 <config>
     <string name="version">1.0</string>
     <rect name="mainWin1">
-        <xmin>1287</xmin>
-        <xmax>1407</xmax>
-        <ymin>68</ymin>
-        <ymax>219</ymax>
+        <xmin>1184</xmin>
+        <xmax>1304</xmax>
+        <ymin>32</ymin>
+        <ymax>42</ymax>
     </rect>
     <rect name="filterWin1">
         <xmin>1280</xmin>
@@ -31,7 +31,7 @@
     <int name="warphaltthresh">30</int>
     <bool name="showcharge1">1</bool>
     <int name="precision1">2</int>
-    <bool name="minimized1">0</bool>
+    <bool name="minimized1">1</bool>
     <string name="globalFontStyle1">Normal</string>
     <double name="goodColr1">0</double>
     <double name="goodColb1">0</double>

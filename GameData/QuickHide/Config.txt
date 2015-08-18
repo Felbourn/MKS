@@ -1,0 +1,54 @@
+isHidden = True
+MouseHide = True
+TimeToKeep = 2
+StockToolBar = True
+BlizzyToolBar = True
+StockToolBar_ModApp = False
+CanPin
+{
+	Item = FilterExtensions
+	Item = USILifeSupport
+	Item = DistantObject
+	Item = NodeHelper
+	Item = MechJeb2
+	Item = KolonyTools
+	Item = KSPAlternateResourcePanel
+	Item = LightsOut
+	Item = QuickGoTo
+}
+CanHide
+{
+	Item = FilterExtensions
+	Item = USILifeSupport
+	Item = DistantObject
+	Item = NodeHelper
+	Item = MechJeb2
+	Item = KolonyTools
+	Item = KSPAlternateResourcePanel
+	Item = LightsOut
+	Item = QuickGoTo
+}
+CanSetFalse
+{
+	Item = FilterExtensions
+	Item = USILifeSupport
+	Item = DistantObject
+	Item = NodeHelper
+	Item = MechJeb2
+	Item = KolonyTools
+	Item = KSPAlternateResourcePanel
+	Item = LightsOut
+	Item = QuickGoTo
+}
+ModHasFirstConfig
+{
+	Item = FilterExtensions
+	Item = USILifeSupport
+	Item = DistantObject
+	Item = NodeHelper
+	Item = MechJeb2
+	Item = KolonyTools
+	Item = KSPAlternateResourcePanel
+	Item = LightsOut
+	Item = QuickGoTo
+}

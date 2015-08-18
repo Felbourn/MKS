@@ -11,3 +11,5 @@ saves/mks/Ships/VAB/Auto-Saved Ship.craft
 saves/mks/Ships/VAB/Untitled Space Craft.craft
 MiniAVC.log
 PartDatabase.cfg
+GameData/MechJeb2/Plugins/PluginData/MechJeb2/*.cfg
+thumbs/*
