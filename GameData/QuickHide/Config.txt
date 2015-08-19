@@ -1,6 +1,6 @@
 isHidden = True
 MouseHide = True
-TimeToKeep = 2
+TimeToKeep = 1
 StockToolBar = True
 BlizzyToolBar = True
 StockToolBar_ModApp = False
@@ -15,6 +15,7 @@ CanPin
 	Item = KSPAlternateResourcePanel
 	Item = LightsOut
 	Item = QuickGoTo
+	Item = HyperEdit
 }
 CanHide
 {
@@ -27,6 +28,7 @@ CanHide
 	Item = KSPAlternateResourcePanel
 	Item = LightsOut
 	Item = QuickGoTo
+	Item = HyperEdit
 }
 CanSetFalse
 {
@@ -39,6 +41,7 @@ CanSetFalse
 	Item = KSPAlternateResourcePanel
 	Item = LightsOut
 	Item = QuickGoTo
+	Item = HyperEdit
 }
 ModHasFirstConfig
 {
@@ -51,4 +54,5 @@ ModHasFirstConfig
 	Item = KSPAlternateResourcePanel
 	Item = LightsOut
 	Item = QuickGoTo
+	Item = HyperEdit
 }

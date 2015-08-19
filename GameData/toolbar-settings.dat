@@ -137,6 +137,30 @@ toolbars
 			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,MechJeb2.Smart_A_S_S_,MechJeb2.Rendezvous_Planner,MechJeb2.Maneuver_Planner
 			visibleButtons = MechJeb2.Maneuver_Planner,MechJeb2.Rendezvous_Planner,MechJeb2.Smart_A_S_S_
 		}
+		toolbar_847208192
+		{
+			x = 1076
+			y = 25
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,QuickGoToVAB.QuickGoToVAB,QuickGoToSPH.QuickGoToSPH,QuickGoToLves.QuickGoToLves,QuickGoToTS.QuickGoToTS
+			visibleButtons = QuickGoToLves.QuickGoToLves,QuickGoToSPH.QuickGoToSPH,QuickGoToTS.QuickGoToTS,QuickGoToVAB.QuickGoToVAB
+		}
+		toolbar_2096650593
+		{
+			x = 928
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,QuickGoToVAB.QuickGoToVAB,QuickGoToSPH.QuickGoToSPH,QuickGoToSC.QuickGoToSC,QuickGoToLves.QuickGoToLves,QuickGoToTS.QuickGoToTS
+			visibleButtons = QuickGoToSC.QuickGoToSC,QuickGoToLves.QuickGoToLves,QuickGoToSPH.QuickGoToSPH,QuickGoToTS.QuickGoToTS,QuickGoToVAB.QuickGoToVAB
+		}
 	}
 	EDITOR
 	{
@@ -173,8 +197,8 @@ toolbars
 			autoHide = False
 			drawBorder = False
 			useKSPSkin = False
-			buttonOrder = 
-			visibleButtons = QuickGoToLves.QuickGoToLves,QuickGoToSPH.QuickGoToSPH,QuickGoToTS.QuickGoToTS
+			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,QuickGoToVAB.QuickGoToVAB,QuickGoToSPH.QuickGoToSPH,QuickGoToLves.QuickGoToLves,QuickGoToTS.QuickGoToTS
+			visibleButtons = QuickGoToLves.QuickGoToLves,QuickGoToSPH.QuickGoToSPH,QuickGoToTS.QuickGoToTS,QuickGoToVAB.QuickGoToVAB
 		}
 	}
 	FLIGHT
@@ -215,20 +239,44 @@ toolbars
 			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,MechJeb2.Smart_A_S_S_,MechJeb2.Rendezvous_Planner,MechJeb2.Maneuver_Planner
 			visibleButtons = MechJeb2.Maneuver_Planner,MechJeb2.Rendezvous_Planner,MechJeb2.Smart_A_S_S_
 		}
+		toolbar_2096650593
+		{
+			x = 928
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,QuickGoToVAB.QuickGoToVAB,QuickGoToSPH.QuickGoToSPH,QuickGoToSC.QuickGoToSC,QuickGoToLves.QuickGoToLves,QuickGoToTS.QuickGoToTS
+			visibleButtons = QuickGoToSC.QuickGoToSC,QuickGoToLves.QuickGoToLves,QuickGoToSPH.QuickGoToSPH,QuickGoToTS.QuickGoToTS,QuickGoToVAB.QuickGoToVAB
+		}
 	}
 	FLIGHTMAP
 	{
 		toolbar_1800283353
 		{
-			x = 300
-			y = 300
+			x = 954
+			y = -3
 			width = 250
 			height = 38
 			autoHide = False
-			drawBorder = True
+			drawBorder = False
+			useKSPSkin = False
+			buttonOrder = __TOOLBAR_INTERNAL.configureVisibleButtons,QuickGoToVAB.QuickGoToVAB,QuickGoToSPH.QuickGoToSPH,QuickGoToSC.QuickGoToSC,QuickGoToLves.QuickGoToLves,QuickGoToTS.QuickGoToTS,Fusebox.FBToggle
+			visibleButtons = Fusebox.FBToggle,QuickGoToLves.QuickGoToLves,QuickGoToSC.QuickGoToSC,QuickGoToSPH.QuickGoToSPH,QuickGoToTS.QuickGoToTS,QuickGoToVAB.QuickGoToVAB
+		}
+		toolbar_865982521
+		{
+			x = 152
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = False
 			useKSPSkin = False
 			buttonOrder = 
-			visibleButtons = 
+			visibleButtons = MechJeb2.Flight_Computer,MechJeb2.Maneuver_Planner,MechJeb2.Rendezvous_Planner,MechJeb2.Smart_A_S_S_
 		}
 	}
 }
