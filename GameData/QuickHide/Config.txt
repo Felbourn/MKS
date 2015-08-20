@@ -16,6 +16,7 @@ CanPin
 	Item = LightsOut
 	Item = QuickGoTo
 	Item = HyperEdit
+	Item = InfernalRobotics
 }
 CanHide
 {
@@ -29,6 +30,7 @@ CanHide
 	Item = LightsOut
 	Item = QuickGoTo
 	Item = HyperEdit
+	Item = InfernalRobotics
 }
 CanSetFalse
 {
@@ -42,6 +44,7 @@ CanSetFalse
 	Item = LightsOut
 	Item = QuickGoTo
 	Item = HyperEdit
+	Item = InfernalRobotics
 }
 ModHasFirstConfig
 {
@@ -55,4 +58,5 @@ ModHasFirstConfig
 	Item = LightsOut
 	Item = QuickGoTo
 	Item = HyperEdit
+	Item = InfernalRobotics
 }
