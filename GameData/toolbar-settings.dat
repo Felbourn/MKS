@@ -111,7 +111,7 @@ toolbars
 			drawBorder = False
 			useKSPSkin = False
 			buttonOrder = 
-			visibleButtons = SmokeScreen.main,MechJeb2.Custom_Window_Editor
+			visibleButtons = SmokeScreen.main
 		}
 		toolbar_1203384908
 		{
@@ -213,7 +213,7 @@ toolbars
 			drawBorder = False
 			useKSPSkin = False
 			buttonOrder = 
-			visibleButtons = SmokeScreen.main,MechJeb2.Custom_Window_Editor
+			visibleButtons = SmokeScreen.main
 		}
 		toolbar_1203384908
 		{

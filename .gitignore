@@ -13,3 +13,4 @@ MiniAVC.log
 PartDatabase.cfg
 GameData/MechJeb2/Plugins/PluginData/MechJeb2/*.cfg
 thumbs/*
+rt_dump.txt

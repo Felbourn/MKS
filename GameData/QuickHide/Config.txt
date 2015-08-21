@@ -17,6 +17,7 @@ CanPin
 	Item = QuickGoTo
 	Item = HyperEdit
 	Item = InfernalRobotics
+	Item = KerbalAlarmClock
 }
 CanHide
 {
@@ -31,6 +32,7 @@ CanHide
 	Item = QuickGoTo
 	Item = HyperEdit
 	Item = InfernalRobotics
+	Item = KerbalAlarmClock
 }
 CanSetFalse
 {
@@ -45,6 +47,7 @@ CanSetFalse
 	Item = QuickGoTo
 	Item = HyperEdit
 	Item = InfernalRobotics
+	Item = KerbalAlarmClock
 }
 ModHasFirstConfig
 {
@@ -59,4 +62,5 @@ ModHasFirstConfig
 	Item = QuickGoTo
 	Item = HyperEdit
 	Item = InfernalRobotics
+	Item = KerbalAlarmClock
 }
