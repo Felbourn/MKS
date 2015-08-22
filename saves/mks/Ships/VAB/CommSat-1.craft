@@ -19644,7 +19644,7 @@ PART
 	pos = -2.172818,4.590189,-0.9219098
 	attPos = 0.0129846,0,-2.206972E-07
 	attPos0 = -0.3434249,-0.03585435,-3.805224E-07
-	rot = 2.512153E-15,1,1.831449E-08,1.60158E-06
+	rot = 2.512157E-15,1,1.831449E-08,1.60158E-06
 	attRot = 0,0,0,1
 	attRot0 = 8.585568E-14,-0.7071074,8.711547E-14,0.7071062
 	mir = 1,1,1
@@ -20544,7 +20544,7 @@ PART
 {
 	part = KWsrbGlobeI_4293767776
 	partName = Part
-	pos = -1.508092,4.546785,-0.6431704
+	pos = -1.508092,4.546785,-0.6431705
 	attPos = 0.01963273,1.490116E-08,4.164693E-07
 	attPos0 = -0.343756,-0.08037961,-5.834667E-07
 	rot = -7.939962E-08,0.9238791,1.916879E-07,0.3826847
@@ -21184,7 +21184,7 @@ PART
 		EngineIgnited = False
 		engineShutdown = False
 		currentThrottle = 0
-		thrustPercentage = 100
+		thrustPercentage = 20
 		manuallyOverridden = False
 		thrustPercentage_UIFlight
 		{
@@ -21384,7 +21384,7 @@ PART
 	RESOURCE
 	{
 		name = SolidFuel
-		amount = 8
+		amount = 3.1304
 		maxAmount = 8
 		flowState = True
 		isTweakable = True
@@ -21434,7 +21434,7 @@ PART
 		EngineIgnited = False
 		engineShutdown = False
 		currentThrottle = 0
-		thrustPercentage = 100
+		thrustPercentage = 20
 		manuallyOverridden = False
 		thrustPercentage_UIFlight
 		{
@@ -21634,7 +21634,7 @@ PART
 	RESOURCE
 	{
 		name = SolidFuel
-		amount = 8
+		amount = 3.1304
 		maxAmount = 8
 		flowState = True
 		isTweakable = True
@@ -21853,7 +21853,7 @@ PART
 	pos = -1.168773,8.040895,-0.9824891
 	attPos = 0.2786402,3.576279E-07,-0.2786394
 	attPos0 = 1.004046,1.707584,-1.004045
-	rot = -1.643941E-07,0.3826837,-6.809432E-08,-0.9238794
+	rot = -1.643941E-07,0.3826837,-6.809434E-08,-0.9238794
 	attRot = 0,0,0,1
 	attRot0 = -1.643941E-07,0.3826837,-6.809432E-08,-0.9238794
 	mir = 1,1,1
@@ -21884,7 +21884,7 @@ PART
 		isEnabled = True
 		scaleFactor = 3.448422
 		height = 8.701047
-		towerRot = 1.643941E-07,-0.3826837,6.809432E-08,-0.9238794
+		towerRot = 1.643941E-07,-0.3826837,6.809434E-08,-0.9238794
 		EVENTS
 		{
 			Release
