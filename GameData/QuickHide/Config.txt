@@ -18,6 +18,7 @@ CanPin
 	Item = HyperEdit
 	Item = InfernalRobotics
 	Item = KerbalAlarmClock
+	Item = TextureReplacer
 }
 CanHide
 {
@@ -33,6 +34,7 @@ CanHide
 	Item = HyperEdit
 	Item = InfernalRobotics
 	Item = KerbalAlarmClock
+	Item = TextureReplacer
 }
 CanSetFalse
 {
@@ -48,6 +50,7 @@ CanSetFalse
 	Item = HyperEdit
 	Item = InfernalRobotics
 	Item = KerbalAlarmClock
+	Item = TextureReplacer
 }
 ModHasFirstConfig
 {
@@ -63,4 +66,5 @@ ModHasFirstConfig
 	Item = HyperEdit
 	Item = InfernalRobotics
 	Item = KerbalAlarmClock
+	Item = TextureReplacer
 }

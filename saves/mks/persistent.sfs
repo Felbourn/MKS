@@ -387,10 +387,28 @@ GAME
 		{
 		}
 	}
+	SCENARIO
+	{
+		name = TRScenario
+		scene = 5
+		reflectionType = REAL
+		isHelmetRemovalEnabled = True
+		isAtmSuitEnabled = True
+		Kerbals
+		{
+			Jebediah Kerman = M GENERIC GENERIC
+			Bill Kerman = M GENERIC GENERIC
+			Bob Kerman = M GENERIC GENERIC
+			Valentina Kerman = F GENERIC GENERIC
+		}
+		ClassSuits
+		{
+		}
+	}
 	FLIGHTSTATE
 	{
 		version = 1.0.4
-		UT = 48377.5514554516
+		UT = 48634.7914554104
 		activeVessel = 0
 		mapViewFiltering = 2044
 		VESSEL
